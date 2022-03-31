@@ -1,5 +1,8 @@
 # Kuis 1 Pemrograman Berorientasi Objek
 
+
+
+Biodata :
 > Nama  : Miftahul Huda Guntara
 > NPM   : 2015061038
 > Kelas : PSTI A
