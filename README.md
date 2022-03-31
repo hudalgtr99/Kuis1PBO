@@ -1,5 +1,10 @@
 # Kuis 1 Pemrograman Berorientasi Objek
 
+Nama  : Miftahul Huda Guntara
+NPM   : 2015061038
+Kelas : PSTI A
+Universitas Lampung
+
 Tema : Aplikasi Perpustakaan
 
 Kriteria Penilaian :
